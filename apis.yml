@@ -1,8 +1,31 @@
 aid: asendia-ai
-name: Asendia Ai
-description: Asendia Ai is a company surfaced as a portfolio company of y-combinator and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Asendia AI
+description: >-
+  Asendia AI builds AI-powered recruitment agents for staffing agencies and
+  enterprise talent teams. The platform clones a top recruiter's screening logic
+  and outreach style into autonomous AI agents that source, screen, and submit
+  candidates around the clock across phone, SMS, WhatsApp, and email. Its AI
+  interview agent ("Sarah") conducts voice screens, its AI sourcing agent uses
+  semantic search to match candidates by meaning rather than keywords, and
+  compatibility reports deliver ready-to-hire shortlists in hours instead of
+  weeks. Asendia AI integrates with 50+ applicant tracking systems (including
+  JobDiva and Recruiterflow) and serves healthcare, IT, and light-industrial
+  staffing. Founded in 2025 in San Francisco and backed by Y Combinator
+  (Spring 2026 batch). This profile is maintained by API Evangelist; the company
+  publishes product documentation but no public developer API at this time.
 url: https://raw.githubusercontent.com/api-evangelist/asendia-ai/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://asendia.ai/images/social_sharing_banner2.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +34,53 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Artificial Intelligence
+- Recruitment
+- Staffing
+- Human Resources
+- AI Agents
+- Recruiting Automation
+- Candidate Screening
+- ATS Integration
+- Talent Sourcing
 apis: []
+common:
+- type: TrustCenter
+  url: security/asendia-ai-trust-center.yml
+- type: DomainSecurity
+  url: security/asendia-ai-domain-security.yml
+- type: Website
+  url: https://asendia.ai/
+- type: Documentation
+  url: https://docs.asendia.ai/
+- type: GettingStarted
+  url: https://docs.asendia.ai/index.md
+- type: Blog
+  url: https://asendia.ai/blogs
+- type: Support
+  url: https://asendia.ai/talk-to-founders
+- type: TermsOfService
+  url: https://asendia.ai/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://asendia.ai/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/asendia-ai/
+- type: LLMsTxt
+  url: llms/asendia-ai-llms.txt
+- type: Compliance
+  url: https://asendia.ai/security
+- type: Conformance
+  url: conformance/asendia-ai-conformance.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

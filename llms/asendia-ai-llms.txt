@@ -1,0 +1,19 @@
+# Asendia Starter Kit
+
+## Docs
+
+- [AI Interview Agent Overview](https://docs.asendia.ai/ai-interview/ai-interview-overview.md): Overview about the Sarah, the AI recruiter
+- [Create the Company Profile](https://docs.asendia.ai/ai-interview/create-company-profile.md): Step-by-step guide to building a company profile
+- [Create Your first AI Interview](https://docs.asendia.ai/ai-interview/create-your-first-ai-interview.md): Step-by-step guide to building an AI Interview
+- [AI Filters Generation](https://docs.asendia.ai/ai-sourcing/AI-filters.md): Review, refine, and control every parameter of your AI-powered talent search.
+- [Talent AI Search Method](https://docs.asendia.ai/ai-sourcing/Findingtalent.md): The Asendia AI sourcing agent uses semantic understanding to match candidates by meaning, not just keywords.
+- [Talent profile view page](https://docs.asendia.ai/ai-sourcing/Profile-view.md): Understand how Asendia AI presents and interprets candidate profiles to help recruiters make informed decisions faster.
+- [Understanding Semantic Search - Talent smart search](https://docs.asendia.ai/ai-sourcing/ai-smart-search.md): Use Asendia’s AI Sourcing Agent to discover top talent with intelligent semantic search
+- [JobDiva x Asendia: AI Interview Integration Guide](https://docs.asendia.ai/ats-integration/jobdiva.md): This guide explains how to set up AI interviews, trigger them for candidates, and view the results directly within JobDiva.
+- [Recruiterflow x Asendia AI integration](https://docs.asendia.ai/ats-integration/recruiterflow.md): Integrate Asendia with Recruiterflow
+- [Getting Started](https://docs.asendia.ai/index.md)
+
+## Optional
+
+- [Blog](https://asendia.ai/blogs)
+- [Socials](https://www.linkedin.com/company/asendia-ai/posts/?feedView=videos&viewAsMember=true)
