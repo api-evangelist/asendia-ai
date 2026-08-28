@@ -14,6 +14,17 @@ description: >-
   (Spring 2026 batch). This profile is maintained by API Evangelist; the company
   publishes product documentation but no public developer API at this time.
 url: https://raw.githubusercontent.com/api-evangelist/asendia-ai/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
