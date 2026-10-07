@@ -74,6 +74,10 @@ tags_raw:
 - Talent Sourcing
 apis: []
 common:
+- type: Pricing
+  url: https://asendia.ai/pricing
+- type: Plans
+  url: plans/asendia-ai-plans-pricing.yml
 - type: TrustCenter
   url: security/asendia-ai-trust-center.yml
 - type: DomainSecurity
